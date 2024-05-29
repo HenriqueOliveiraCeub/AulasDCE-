@@ -12,4 +12,4 @@ Aqui você pode ver o código do projeto.
 <br>
 Escolha um projeto:
 
-- [Projeto 1](Aula-6-Html-e-Css) - Responsividade.
+- [Projeto 1](Aula-6-Html-e-Css/mediaQueries/mediaQuerie.html) - Responsividade.
